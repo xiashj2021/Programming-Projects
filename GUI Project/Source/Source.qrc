@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="GUI Project">
+    <file>Administrator Image.png</file>
+    <file>User Image.png</file>
+    <file>Register Image.png</file>
+    <file>FIFA Background Image.png</file>
+  </qresource>
+</RCC>
