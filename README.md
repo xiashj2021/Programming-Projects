@@ -1,2 +1,2 @@
-# ProgrammingProjects
+# Programming Projects
 Some projects for programming
